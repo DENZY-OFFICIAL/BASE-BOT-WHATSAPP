@@ -9,7 +9,7 @@ global.status = true
 global.owneroff = true
 global.nobot = "6283137133540"
 global.title = "⏤̋͢͠𝐰̣.𝐜𝐞𝐨/𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐞𝐧𝐳𝐲𝐱𝐳"
-global.foother = '⏤̋͢͠𝐰̣.𝐜𝐞𝐨/𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐞𝐧𝐳𝐲𝐱𝐳"
+global.foother = '⏤̋͢͠𝐰̣.𝐜𝐞𝐨/𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐞𝐧𝐳𝐲𝐱𝐳'
 global.namach = '⏤̋͢͠𝐰̣.𝐜𝐞𝐨/𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐞𝐧𝐳𝐲𝐱𝐳'
 global.idch = '_'
 global.namafile = '⏤̋͢͠𝐰̣.𝐜𝐞𝐨/𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐞𝐧𝐳𝐲𝐱𝐳'
@@ -28,7 +28,7 @@ global.logoovo = "_"
 global.mess = {
     owner: "\`KHUSUS OWNER KAK😈`\`",
     prem: "\`KHUSUS PREMIUM KAK🥺\`",
-    group: "\`ONLY GROUO KAK🥳\`
+    group: "\`ONLY GROUO KAK🥳\`"
     private: "\`ONLY PRIVATE CHAT KAK☺\`"
 }
 
