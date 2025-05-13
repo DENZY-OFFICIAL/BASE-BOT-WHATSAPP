@@ -1,0 +1,47 @@
+{
+    "name": "Base Wangcap",
+    "version": "1.0.0",
+    "description": "denzy need girl",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "whiskeysockets",
+        "multi-device",
+        "Kyami",
+        "silence"
+    ],
+    "author": "denzy offc",
+    "license": "MIT",
+    "dependencies": {
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@colors/colors": "^1.5.0",
+        "@ffmpeg-installer/ffmpeg": "^1.1.0",
+        "@hapi/boom": "^10.0.0",
+        "@whiskeysockets/baileys": "https://github.com/DENZY-OFFICIAL",
+        "awesome-phonenumber": "^2.70.0",
+        "cfonts": "^3.3.0",
+        "chalk": "^4.1.2",
+        "cheerio": "^1.0.0-rc.12",
+        "child_process": "^1.0.2",
+        "colors": "latest",
+        "crypto": "^1.0.1",
+        "fluent-ffmpeg": "latest",
+        "fs": "0.0.1-security",
+        "human-readable": "^0.2.1",
+        "jimp": "^0.16.3",
+        "moment-timezone": "^0.5.34",
+        "node-fetch": "^2.6.1",
+        "node-webpmux": "^3.1.1",
+        "os": "^0.1.2",
+        "path": "^0.12.7",
+        "pino": "^7.0.5",
+        "qrcode-terminal": "^0.12.0",
+        "readline": "^1.3.0",
+        "request": "^2.88.2",
+        "stream": "^0.0.3",
+        "util": "^0.12.4"
+    }
+}
